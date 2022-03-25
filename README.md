@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Victor Oliveira e tenho 18 anos;
 - 🧑🏻‍🎓 Sou estudante da Universidade FUMEC onde estou cursando Ciência da Computação;
-- 🕮 Estou cursando Linguagem Python e Formação Hacker;
+- 🕮 Cursando: linguagem de programação Python; Java; JavaScript; HTML5; CSS; Formação Hacker.
 - 👀 Tenho interesse em Inteligência Artificial, Data Science, Cyber Segurança e Iot.
 
 ##
